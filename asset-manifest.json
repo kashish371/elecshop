@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.b2ef4d16.css",
-    "main.js": "/my-app/static/js/main.f01727f3.js",
-    "static/js/787.106db3e6.chunk.js": "/my-app/static/js/787.106db3e6.chunk.js",
-    "index.html": "/my-app/index.html",
-    "static/media/searchicon.svg": "/my-app/static/media/searchicon.385838babf7bc5ddfa2c804451d05671.svg",
-    "main.b2ef4d16.css.map": "/my-app/static/css/main.b2ef4d16.css.map",
-    "main.f01727f3.js.map": "/my-app/static/js/main.f01727f3.js.map",
-    "787.106db3e6.chunk.js.map": "/my-app/static/js/787.106db3e6.chunk.js.map"
+    "main.css": "/elecshop/static/css/main.b2ef4d16.css",
+    "main.js": "/elecshop/static/js/main.f0fa834c.js",
+    "static/js/787.106db3e6.chunk.js": "/elecshop/static/js/787.106db3e6.chunk.js",
+    "index.html": "/elecshop/index.html",
+    "static/media/searchicon.svg": "/elecshop/static/media/searchicon.385838babf7bc5ddfa2c804451d05671.svg",
+    "main.b2ef4d16.css.map": "/elecshop/static/css/main.b2ef4d16.css.map",
+    "main.f0fa834c.js.map": "/elecshop/static/js/main.f0fa834c.js.map",
+    "787.106db3e6.chunk.js.map": "/elecshop/static/js/787.106db3e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2ef4d16.css",
-    "static/js/main.f01727f3.js"
+    "static/js/main.f0fa834c.js"
   ]
 }
